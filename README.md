@@ -2,7 +2,7 @@
 - # Random Movie Generator
 This is a Random Movie Generator made with HTML5, CSS & JavaScript.
 - This Website Project is Hosted On Github.
-- Uploaded and Edited in CODEPEN ( https://codepen.io/subidbiswasjr08/full/PomdgJJ )
+- Uploaded and Edited in CODEPEN ( https://codepen.io/subidbiswasjr08/full/BaRqYaV )
 - Written in Visual Code Studio
 ---------------------
 - Single Page Website
